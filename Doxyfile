@@ -145,7 +145,7 @@ EXAMPLE_PATTERNS       = *.ino \
                          *.cpp \
                          *.c
 EXAMPLE_RECURSIVE      = NO
-IMAGE_PATH             = 
+IMAGE_PATH             = assets
 INPUT_FILTER           = 
 FILTER_PATTERNS        = 
 FILTER_SOURCE_FILES    = NO
