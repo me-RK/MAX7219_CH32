@@ -1,5 +1,5 @@
 # Doxygen generated documentation
-docs/
+# docs/ - Commented out to allow GitHub Pages hosting
 html/
 latex/
 man/
