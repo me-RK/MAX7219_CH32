@@ -1,0 +1,26 @@
+# Doxygen generated documentation
+docs/
+html/
+latex/
+man/
+rtf/
+xml/
+sqlite3/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+

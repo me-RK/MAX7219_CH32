@@ -1,0 +1,61 @@
+#######################################
+# Syntax Coloring Map For MAX7219_CH32
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAX7219	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setMode	KEYWORD2
+getMode	KEYWORD2
+setAlignment	KEYWORD2
+getAlignment	KEYWORD2
+setBrightness	KEYWORD2
+setPower	KEYWORD2
+clear	KEYWORD2
+display	KEYWORD2
+displayAt	KEYWORD2
+displayTime	KEYWORD2
+displayHex	KEYWORD2
+displayBinary	KEYWORD2
+blink	KEYWORD2
+fadeIn	KEYWORD2
+fadeOut	KEYWORD2
+scroll	KEYWORD2
+chase	KEYWORD2
+countUp	KEYWORD2
+countDown	KEYWORD2
+setSegments	KEYWORD2
+setRawDigit	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX7219_MODE_DECODE	LITERAL1
+MAX7219_MODE_NO_DECODE	LITERAL1
+MAX7219_ALIGN_LEFT	LITERAL1
+MAX7219_ALIGN_RIGHT	LITERAL1
+MAX7219_ALIGN_CENTER	LITERAL1
+MAX7219_REG_NOOP	LITERAL1
+MAX7219_REG_DIGIT0	LITERAL1
+MAX7219_REG_DIGIT1	LITERAL1
+MAX7219_REG_DIGIT2	LITERAL1
+MAX7219_REG_DIGIT3	LITERAL1
+MAX7219_REG_DIGIT4	LITERAL1
+MAX7219_REG_DIGIT5	LITERAL1
+MAX7219_REG_DIGIT6	LITERAL1
+MAX7219_REG_DIGIT7	LITERAL1
+MAX7219_REG_DECODE	LITERAL1
+MAX7219_REG_INTENSITY	LITERAL1
+MAX7219_REG_SCANLIMIT	LITERAL1
+MAX7219_REG_SHUTDOWN	LITERAL1
+MAX7219_REG_DISPLAYTEST	LITERAL1
+
